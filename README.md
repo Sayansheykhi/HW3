@@ -15,7 +15,7 @@ The goal of this project is to:
 - Generate professional-looking Javadoc documentation inspired by Oracle's Java API.
 - Produce a screencast showing the tests running and explaining the implementation.
 
-## Project Structure
+
 
 
 ## Automated Tests
