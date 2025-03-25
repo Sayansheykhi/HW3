@@ -1,6 +1,6 @@
 # HW3 Automated Testing & Documentation
 
-This repository contains my HW3 assignment submission for [Course Name]. The project demonstrates automated testing of methods from our TP2 submission along with professional Javadoc documentation.
+This repository contains my HW3 assignment submission for CSE 360. The project demonstrates automated testing of methods from our TP2 submission along with professional Javadoc documentation.
 
 ## Overview
 
